@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("Esto es una app")
+st.title("Esto es una app de prueba")
 
 X =np.random.normal(0,1,1000)
 Y =np.random.normal(0,5,1000)
