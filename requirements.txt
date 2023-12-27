@@ -1,4 +1,9 @@
-streamlit
-numpy
-matplotlib
+#streamlit
+#numpy
+#matplotlib
+#time
+
+streamlit==1.12.2 
+numpy>=1.18.5
+matplotlib==3.2.2
 time
