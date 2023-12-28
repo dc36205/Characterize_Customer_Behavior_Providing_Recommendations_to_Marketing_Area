@@ -6,8 +6,6 @@
 #3. Make small edits for practice.
 #4. Run our file locally .
 
-# Plot from direct practicing_web_application
-
 import streamlit as st
 import time
 import numpy as np
@@ -28,4 +26,4 @@ progress_bar.empty()
 # Streamlit widgets automatically run the scrip
 # this button is not connected to any other log
 # rerun.
-st.button("Re-run all againn") 
+st.button("Re-run all") 
