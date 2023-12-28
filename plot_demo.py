@@ -10,6 +10,8 @@ import streamlit as st
 import time
 import numpy as np
 
+st.title("Esto es una app de prueba en el tiempo")
+
 progress_bar = st.sidebar.progress(0)
 status_text = st.sidebar.empty()
 last_rows = np.random.randn(1, 1)
