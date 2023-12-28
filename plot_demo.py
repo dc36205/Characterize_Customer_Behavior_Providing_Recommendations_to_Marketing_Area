@@ -28,4 +28,4 @@ progress_bar.empty()
 # Streamlit widgets automatically run the scrip
 # this button is not connected to any other log
 # rerun.
-st.button("Re-run all againn") # Plot from direct practicing_web_application, not nested, is direct in the source 
+st.button("Re-run all againn") 
