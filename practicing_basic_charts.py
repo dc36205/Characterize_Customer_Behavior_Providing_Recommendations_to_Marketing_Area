@@ -10,3 +10,24 @@ df = pd.DataFrame(data={'Name':['Jessica','John','Alex'],
                   )
 df.set_index('Name').plot(kind='bar',stacked=False,xlabel='Name',ylabel='Score')
 st.pyplot(plt)
+
+import streamlit as st
+import pandas as pd
+import plotly.graph_objects as go
+
+df = pd.DataFrame(data={'Exam':['Exam 1','Exam 2','Exam 3'],
+'Jessica':[77,76,87],'John':[56,97,95],'Alex':[87,82,93]}
+                  )
+fig = go.Figure(data=[
+    go.Line(name='Dani', x=df['Exam'], y=df['Dani']),
+    go.Line(name='Marco', x=df['Exam'], y=df['Marco']),
+    go.Line(name='Daimi', x=df['Exam'], y=df['Daimi'])    
+])
+
+fig.update_layout(
+    xaxis_title='Exam',
+    yaxis_title='Score',
+    legend_title='Name',
+)
+
+st.plotly_chart(fig)
