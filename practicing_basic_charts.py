@@ -30,4 +30,4 @@ fig.update_layout(
     legend_title='Name',
 )
 
-st.plotly_chart(fig)
+st.plotly_chart(fig) # Plotting the final result 
