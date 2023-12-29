@@ -16,12 +16,13 @@ import pandas as pd
 import plotly.graph_objects as go
 
 df = pd.DataFrame(data={'Exam':['Exam 1','Exam 2','Exam 3'],
-'Dani':[77,76,87],'Daimi':[56,97,95],'Orlando':[87,82,93]}
+'Dani':[77,76,87],'Daimi':[56,97,95],'Orlando':[87,82,93],'David':[97,92,93]}
                   )
 fig = go.Figure(data=[
     go.Line(name='Dani', x=df['Exam'], y=df['Dani']),
     go.Line(name='Daimi', x=df['Exam'], y=df['Daimi']),
-    go.Line(name='Orlando', x=df['Exam'], y=df['Orlando'])    
+    go.Line(name='Orlando', x=df['Exam'], y=df['Orlando']),
+    go.Line(name='David', x=df['Exam'], y=df['David'])    
 ])
 
 fig.update_layout(
