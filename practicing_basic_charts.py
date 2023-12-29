@@ -1,5 +1,4 @@
 # Practicing basic charts
-# practicing_basic_charts
 
 import streamlit as st
 import pandas as pd
