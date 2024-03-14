@@ -7,11 +7,9 @@ This project focuses on carrying out a preliminary analysis with the data availa
 
 The information provided is distributed in 3 datasets, with 2542, 50415 and 359400 records respectively.
 
-The main objective is to optimize the company's marketing expenses, understanding and characterizing customer behavior, to in turn provide recommendations that serve marketing experts, ultimately contributing to better company performance and the generation of greater income.
-
 # Table of Contents
 
-* Problem Statement
+* Problem Statement 
 * Data Description
 * Technical Requirements
 * Results
@@ -19,7 +17,7 @@ The main objective is to optimize the company's marketing expenses, understandin
 =================
 # * Problem Statement
 
-Conduct a study to determine the preliminary conditions of situation existing in the target area in order to evaluate the possibilities of opening a new coffee trading establishment.
+The main objective is to optimize the company's marketing expenses, understanding and characterizing customer behavior, to in turn provide recommendations that serve marketing experts, ultimately contributing to better company performance and the generation of greater income.
 
 # * Data Description
 
