@@ -9,7 +9,7 @@ The information provided is distributed in 3 datasets, with 2542, 50415 and 3594
 
 The main objective is to optimize the company's marketing expenses, understanding and characterizing customer behavior, to in turn provide recommendations that serve marketing experts, ultimately contributing to better company performance and the generation of greater income.
 
-Table of Contents
+# Table of Contents
 
 * Problem Statement
 * Data Description
