@@ -17,11 +17,11 @@ The main objective is to optimize the company's marketing expenses, understandin
 * Results
 
 =================
-# 1. Problem Statement
+# * Problem Statement
 
 Conduct a study to determine the preliminary conditions of situation existing in the target area in order to evaluate the possibilities of opening a new coffee trading establishment.
 
-# 2. Data Description
+# * Data Description
 
 Dataset - 1
 * Number of instances - 2542
@@ -54,7 +54,7 @@ Dataset - 3
 * Start Ts
 * Uid
 
-# 3. Technical Requirements
+# * Technical Requirements
 
 ### Installed libraries
 * pandas
@@ -62,4 +62,4 @@ Dataset - 3
 * seaborn
 * matplotlib
 
-# 4. Results
+# * Results
