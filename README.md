@@ -1,5 +1,5 @@
 Characterization Customer Behavior Providing Recommendations to Marketing Area
-# Company Y. Afisha
+Company Y. Afisha
 =================
 
 A study is requested to be carried out to understand how users use the product, when they start buying, how much contribution each customer brings and when they pay.
