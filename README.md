@@ -61,3 +61,5 @@ Dataset - 3
 * matplotlib
 
 # * Results
+![](https://github.com/dc36205/Characterize_Customer_Behavior_to_Marketing_Area/blob/main/imgs/barplot_investment_return_behavior_okey.png)
+![](https://github.com/dc36205/Characterize_Customer_Behavior_to_Marketing_Area/blob/main/imgs/barplot_purchases_by_months_okeyy.png)
