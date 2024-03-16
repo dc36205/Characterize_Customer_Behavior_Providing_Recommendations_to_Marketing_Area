@@ -1,4 +1,5 @@
 Characterization Customer Behavior Providing Recommendations to Marketing Area
+Company Y. Afisha
 =================
 
 A study is requested to be carried out to understand how users use the product, when they start buying, how much contribution each customer brings and when they pay.
@@ -10,9 +11,12 @@ The information provided is distributed in 3 datasets, with 2542, 50415 and 3594
 # Table of Contents
 
 * [Problem Statement](#problem)
-* [Data Description](#data)
 * [Technical Requirements](#technical)
-* [Results](#results)
+* [Data Description](#data)
+* [Data Cleaning and preparation](#preparation)
+* [Metric calculation](#metric)
+* [Results and recommendations](#observations)
+* [Conclusion](#conclusion)
 
 =================
 # * Problem Statement
@@ -60,6 +64,6 @@ Dataset - 3
 * seaborn
 * matplotlib
 
-# * Results
+# * Some results 
 ![](https://github.com/dc36205/Characterize_Customer_Behavior_to_Marketing_Area/blob/main/imgs/barplot_investment_return_behavior_okey.png)
 ![](https://github.com/dc36205/Characterize_Customer_Behavior_to_Marketing_Area/blob/main/imgs/barplot_purchases_by_months_okeyy.png)
